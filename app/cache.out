@@ -1,0 +1,9 @@
+nautilus:
+  Installed: 1:3.18.4.is.3.14.3-0ubuntu5
+  Candidate: 1:3.18.4.is.3.14.3-0ubuntu5
+  Version table:
+ *** 1:3.18.4.is.3.14.3-0ubuntu5 500
+        500 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
+        100 /var/lib/dpkg/status
+     1:3.18.4.is.3.14.3-0ubuntu4 500
+        500 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 Packages
